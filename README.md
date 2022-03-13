@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/jan-urba%C5%9B/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" /></a>
 <a href="https://www.codewars.com/users/Tymisko" target="blank"><img alt="codewars logo" align="center" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" height="25" /></a>
 <a href="mailto:janurbas39@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" /></a>
-<img align="center" src="https://img.shields.io/badge/Janek%238007-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="25" />
+<img align="center" src="https://img.shields.io/badge/Janek%238807-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="25" />
 
 </div>
 
