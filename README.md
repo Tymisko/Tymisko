@@ -66,7 +66,7 @@ _"Testing leads to failure, and failure leads to understanding." - Burt Rutan_
 ---
 <div align="center">
 
-<img alt="github stats" align="center" src="https://github-readme-stats.vercel.app/api?username=Tymisko&theme=vue" height="250" />    
+<img alt="github stats" align="center" src="https://github-readme-stats.vercel.app/api?username=Tymisko&theme=vue" width="100%" />    
 <img alt="github profile summary" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tymisko&theme=vue" width="100%"/>
     
 </div>
