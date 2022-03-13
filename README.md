@@ -77,7 +77,7 @@ I'm constantly developing myself by reading books and articles or by watching vi
 
 <div align="center">
 
-> _"Testing leads to failure, and failure leads to understanding." - Burt Rutan_
+_"Testing leads to failure, and failure leads to understanding." - Burt Rutan_
 
 <img src="./gifs/programming-monkey.gif">
 
