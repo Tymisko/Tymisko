@@ -36,6 +36,8 @@ I'm constantly developing myself by reading books and articles or by watching vi
 
 ## Skills
 
+<div>
+
 <img alt="csharp logo" align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="25" />
 <img alt="dotnet logo" align="center" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="25" />
 <img alt="unity logo" align="center" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" height="25" />
@@ -44,13 +46,19 @@ I'm constantly developing myself by reading books and articles or by watching vi
 <img alt="css logo" align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25" />
 <img alt="markdown logo" align="center" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" height="25" />
 
+</div>
+
 ---
 
 ## Tools
 
+<div>
+
 <img alt="visual studio logo" align="center" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" height="25" />
 <img alt="visual studio code logo" align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25" />
 <img alt="source tree logo" align="center" src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white"/>
+
+</div>
 
 ---
 
