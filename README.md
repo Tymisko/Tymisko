@@ -2,20 +2,17 @@
 
     Hello World. I'm Jan Urbaś.
 
+<a href="https://github.com/antonkomarev/github-profile-views-counter"><img align="center" src="https://komarev.com/ghpvc/?username=Tymiskov&style=for-the-badge"></a>
 <a href="https://www.linkedin.com/in/jan-urbaś/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" /></a>
 <a href="mailto:janurbas39@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" /></a>
 <a href="https://discordapp.com/users/248355897728827393/" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="25" /></a>
 
+<img alt="github stats" align="center" src="https://github-readme-stats.vercel.app/api?username=Tymisko&line_height=20&show_icons=true&hide_title=true&theme=codeSTACKr" />
+
 </div>
 
 # About Me
-
-<div width="50%">
-     
-<img alt="fire with programmer in the background" align="right" src="./gifs/programmer-in-fire.gif" width="50%">
-  
-<p>
-    
+      
 I'm **programming passionate**. Solve problems in the best possible way is what programmers do and **I like it**.
 
 > _"At this moment I have realized that the most of my life I will spend on searching and improving my mistakes." ~ Maurice Wilkes, 1949_
@@ -26,7 +23,6 @@ I started my journey _seriously_ in early 2021. That time I decided to choose C#
 
 I'm constantly developing myself by reading books and articles or by watching videos and listening podcasts.
 
-</p>
 </div>
 
 ---
@@ -56,7 +52,3 @@ I'm constantly developing myself by reading books and articles or by watching vi
 <img alt="source tree logo" align="center" src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white"/>
 
 </div>
-
----
-
-<img alt="github stats" align="center" src="https://github-readme-stats.vercel.app/api?username=Tymisko&line_height=20&show_icons=true&hide_title=true&theme=codeSTACKr" />
